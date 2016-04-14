@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es3",
+        "noImplicitAny": false,
+        "outDir": "",
+        "rootDir": "app",
+        "sourceMap": true,
+        "jsx": "preserve"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

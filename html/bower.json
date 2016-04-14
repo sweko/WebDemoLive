@@ -1,0 +1,25 @@
+{
+  "name": "SWeko's Web Demo",
+  "main": "index.html",
+  "authors": [
+    "Wekoslav Stefanovski <swekster@gmail.com>"
+  ],
+  "description": "some description",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.0.1",
+    "jquery": "~2.2.3",
+    "babel": "*"
+  }
+}

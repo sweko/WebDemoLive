@@ -19,6 +19,7 @@ var AuthorList = React.createClass({
       </div>
     );
     return null;
+
   }
 });
 
